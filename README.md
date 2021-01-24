@@ -11,4 +11,4 @@ Izrada informatičkih projekata, Ak.g. 2019./2020.
 Voditelj: **Nikola Tanković**
 
 ### Dokumentacija
-Dokumentacija [aplikacija-za-provodjenje-studentske-prakse](https://github.com/majamandaric/aplikacija-za-provodjenje-studentske-prakse/blob/master/aplikacija-za-provodjenje-studentske-prakse.pdf)
+Dokumentacija: [aplikacija-za-provodjenje-studentske-prakse](https://github.com/majamandaric/aplikacija-za-provodjenje-studentske-prakse/blob/master/aplikacija-za-provodjenje-studentske-prakse.pdf)
